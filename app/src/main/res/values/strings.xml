@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExiomsTask</string>
+
+
+    <string name="google_api_key">AIzaSyBI0_qlIoqsQ6gJn-i5A11CFO-L1_z1VyU 	</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
